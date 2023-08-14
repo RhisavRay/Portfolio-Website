@@ -1,0 +1,14 @@
+.container
+{
+    display: flex;
+}
+
+.menu
+{
+    display: flex;
+}
+
+.downloadCV
+{
+    align-content: flex-end;
+}
